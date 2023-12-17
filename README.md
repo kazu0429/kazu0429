@@ -7,7 +7,7 @@
 📚 I'm interested in NLP, LLM, Prompt Engineering.
 
 
-### Github Stats
+### GitHub Stats
 
 <img height="150px"
 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu0429&layout=compact&show_icons=true&show_icons=true&theme=dracula&hide_border=true" />
